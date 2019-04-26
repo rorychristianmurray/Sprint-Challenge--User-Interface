@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-family: 'Rubik', sans-serif;
+}
+
+p {
+    line-height: 1.4;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+.top-bar {
+    display: flex;
+    width: 800px;
+    margin-top:2em;
+}
+
+.navbar-top {
+    width:800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.toplinks {
+    text-decoration: none;
+    color: black;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+#jumbo-about {
+    width: 800px;
+    margin: 1.5em 0;
+}
+
+.about-page {
+    padding-bottom: 1.5em;
+    border-bottom: 1px dashed black;
+}
+
+.top-mid {
+    display: flex;
+    flex-direction: row;
+    margin: 1.2em auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#top-mid-child-1 {
+    margin-left: 1em;
+   
+}
+
+
+#top-mid-child-2 {
+
+}
+
+#cut-border {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#top-mid-child-1-cut-border {
+    border: 1px dashed black;
+    margin-left: 1em;
+    width: 45%;
+}
+
+#top-mid-child-2-cut-border {
+    border: 1px dashed black;
+    margin-right: 1em;
+    width: 45%;
+}
+
+
+.bot-mid {
+    display: flex;
+    margin: 2.5em auto;
+}
+
+.btn {
+    margin: 1em 0;
+}
+
+button {
+    background: white;
+    font-family: 'Rubik', sans-serif;
+    border-radius: 12.5px;
+    padding: 0.5em 1.2em;
+    border: 1.5px solid black;
+    
+}
+
+
+.bot-row {
+    margin: 2em auto;
+}
+
+.navbar-bot {
+    width:800px;
+    display: flex;
+    justify-content: flex-start;
+    background: black;
+}
+
+.botlinks {
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin: 2em 3em 1.5em 1.5em;
+}
+
