@@ -54,6 +54,119 @@ time, mark, audio, video {
     margin: 1.5em 0;
 }
 
+#box1 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: teal;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box2 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: gold;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box3 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: cadetblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box4 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: coral;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box5 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: crimson;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box6 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: forestgreen;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box7 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: darkorchid;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box8 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: hotpink;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box9 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: indigo;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box10 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: dodgerblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
 
 /*rory code end */
 
