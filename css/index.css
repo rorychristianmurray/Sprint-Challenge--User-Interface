@@ -24,6 +24,153 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
+/*rory code beg*/
+
+.top-bar {
+    /* border: 1px solid red; */
+    display: flex;
+    width: 800px;
+    margin-top:2em;
+}
+
+.navbar {
+    border: 1px solid dodgerblue;
+    width:800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.toplinks {
+    border: 1px solid red;
+    text-decoration: none;
+    color: black;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+#jumbo {
+    width: 800px;
+    margin: 1.5em 0;
+}
+
+#box1 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: teal;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box2 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: gold;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box3 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: cadetblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box4 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: coral;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box5 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: crimson;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box6 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: forestgreen;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box7 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: darkorchid;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box8 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: hotpink;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box9 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: indigo;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box10 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background: dodgerblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+/*rory code end */
+
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -101,10 +248,9 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+ .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
